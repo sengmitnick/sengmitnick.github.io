@@ -1,5 +1,6 @@
 ---
-sidemenu: true
+title: Blog
+sidemenu: false
 ---
 
-⁄(⁄ ⁄ ⁄ω⁄ ⁄ ⁄)⁄
+<Posts></Posts>
