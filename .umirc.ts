@@ -6,7 +6,7 @@ export default defineConfig({
   favicon: '/favicon.ico',
   logo: '/logo.png',
   locales: [['zh-CN', '中文']],
-  copy: ['docs/**/*.jpg'],
+  copy: ['docs/**/*.{jpg,gif,png}'],
   extraBabelPlugins: [
     [
       'import',
